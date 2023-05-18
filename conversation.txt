@@ -1,0 +1,95 @@
+hello
+hi
+hello
+what is cou?
+CoU is a public University
+what is your name ?
+My name is CoUBuddy and I am created by Ratul
+how are you ?
+I am doing great these days
+thank you
+In which city you live ?
+I live in Cotbari Comilla
+In which language you talk?
+I talk in english
+comilla university
+Comilla University is a public University
+total number of seats
+A Unit - 350, B Unit - 450, C Unit - 240. Total = 1040
+a unit number distribution
+English - 15, Bengali - 10, Physics - 25, Chemistry - 25, Mathematics - 25 / Biology - 25
+b unit number distribution
+English - 25, Bengali - 25, general knowledge - 10, and arts and humanities and social sciences / science / business education subjects - 40
+c unit number distribution
+English - 25, Bengali - 25, Business Organization and Management - 25 and Accounting - 25.For Science students English - 25, Bengali - 25 and Mathematics - 50.English for students of humanities department - 25, Bengali - 25 and general knowledge - 50
+calculators
+Absolutely forbidden
+mobile phones
+Absolutely forbidden
+smart watches
+Absolutely forbidden
+faculty
+1.Science 2.Arts and Humanities  3.Social Science 4.Business studies 5.Engineering 6.Law
+science
+1.Mathematics 2.Physics 3.Statistics 4.Chemistry 5.Pharmacy
+arts and humanities
+1.English 2.Bangla
+social science
+1.Archaeology 2.Economics 3.Public Administration 4.Anthropology 5.Mass Communication and Journalism
+business studies
+1.Management Studies 2.Accounting and Information Systems 3.Marketing 4.Finance and Banking
+engineering
+1.Computer Science and Engineering(CSE) 2.Information and Communication Technology(ICT)
+ICT
+The Department of Information and Communication Technology (ICT) of Comilla University started its incredible journey of 4-years B.Sc.(Engg.) program in 2010. Well ahead in 2014 it started the 1-year M.Sc. (Engg.) program in Information and Communication Technology. Since its inception, the Department is playing a vibrant role in building skilled ICT professional and researchers not only inside Bangladesh but also all over the world. It has overwhelming dominance in ICT-based higher education and research
+CSE
+Department of Computer Science and Engineering has enriched facilities to foster new knowledge among its students. Along with well-equipped classrooms, we have state of the art laboratories for programming, database management, networking, electronics, Robotics, IoT and more labs are currently under construction. The department also has a resourceful seminar library, prayer room, and dedicated wifi zone where students can utilize their precious times. Moreover, we have many academic as well as co-curricular clubs in our department where students can nurture their respective skills by collaborating with others
+mathmatics
+Mathematics department was one of the seven founding Departments of this University and the only Department in the Faculty of Science with which the University opened its academic year 2006-2007 on the May 28, 2007. The department started its journey with only three teachers and thirty students in that academic year. It offers B.Sc. (Honours) in Mathematics Programme of four-year duration followed by a M.Sc. Programme of one-year duration
+physics
+The Department of Physics started its journey on 16 January 2011. Department of Physics, Comilla University offers Bachelor of Science and Master of Science degree. About 230 students are studying at undergraduate level. The department has 11 faculty members (Associate Professors, Assistant Professors and Lecturers), who are well known for their academic and research excellence
+statistics
+The department has started its journey on 16th January 2011. It offers Bachelor of Science and Masters of Science degrees. About 235 students are studying at undergraduate level. The department has 13 faculty members who are well known for their academic and research excellence. One of the faculty members has achieved PhD degree and one has completed his MPhil degree
+chemistry
+The Department of Chemistry is one of the promising and emerging departments of Comilla University which was established in 2010. It is becoming familiar gradually as a noted place to academia and researchers. There are fourteen highly qualified enlightened teachers who are engaged in different teaching, project and research programs. Academic up-to-date curriculum of the department is designed with four branches namely physical, inorganic, organic and analytical & environmental chemistry
+pharmacy
+We offer a five (05) years B. Pharm course that is very effective to acquire knowledge for industrial use like- production, quality control, product developments and promotion of drugs to national or international markets. Our course curriculum is designed in such a way that it would be effective to provide patient care either in hospital or community pharmacy. An optimum balance between theory and practical knowledge is maintained in the overall structure of the curriculum
+english
+The Department of English, Comilla University offers a wide range of courses focusing on English Studies with particular emphasis on Literature, Culture Language and Applied Linguistics. It inculcates students with humane qualities to shape themselves as competent and resourceful citizens. We nurture them for combating challenges and help avail themselves of the opportunities to explore new dimensions of modern civilization
+bangla
+The department started its journey with only three teachers and only 39 students in the academic session 2009-2010 on the 29th March, 2010. Firstly appointed three young and energetic teachers are Dr. G. M. Moniruzzaman, Assistant Professor & Head of the department (Acting), Mohammad Niamot Ullah Bhuyan (Lecturer) and Mohammad Shamsuzzaman Milky (Lecturer). The department offers both BA (Honours) and MA in Bangla programs for the students
+archaeology
+The Department of Archaeology was established in 2013 and from then it successfully engaged in teaching and research activities. At present, we offer a four years BSS (Honors), a one year MSS in Archaeology for regular students only
+economics
+The department of Economics, Comilla University, started its operation in 2007. It is one of the seven departments with which the University inaugurated its Academic Program. It started its journey with 4 year program of Bachelor of Social Science (BSS) Honours in the academic session 2006-2007 and later launched Master of Social Science (MSS) in Economics program in the academic session 2010- 2011. The department is adjoining to offer MPhil and PhD from academic session 2019-2020
+public administration
+The Department of Public Administration starts its journey  with the beginning of Camilla University in 2007 and constitutes a significant part of the university’s  history. As a dynamic discipline comprising  ‘actions  of government  exposed through  policy formulation and implementation’ public administration holds distinct academic value specially for its role in  ensuring better governance for  a better world.
+anthropology
+From prehistoric era all the way to contemporary cultural diversity, anthropologists engage with a wide range of issues and phenomena that affect human life. Anthropology studies human experience, correlating social, cultural, biological, archaeological, and linguistic approaches within a single discipline. Here we welcome you in this diversified learning journey on behalf of all the faculties, staff, and students of the Department of Anthropology, Comilla University, Cumilla, Bangladesh
+mass communication and journalism
+The Department deals with the intertwined relationship of media, society, culture and the application of modern technology in disseminating news and views and so on. These are taught and learned with an enriched and all-encompassing course curriculum of Bachelor of Social Science (BSS)
+journalism
+The Department deals with the intertwined relationship of media, society, culture and the application of modern technology in disseminating news and views and so on. These are taught and learned with an enriched and all-encompassing course curriculum of Bachelor of Social Science (BSS)
+management
+The Department of Management Studies (DMS) started its journey in the academic session 2006-07 under the Faculty of Business Administration and Management Studies at the opening of the university in 2006 with a view to imparting knowledge on management and management related subjects to the managers in the days coming and thereby playing a major role in the process of developing human resources in Bangladesh and the world as well
+accounting
+Department of Accounting & Information Systems commenced its academic pursuits in 2006-2007 session. The mission of the Department is to strengthen our national and international recognition as an outstanding teaching and research center in the area of accounting and to have a leading role in the financial and business sectors of Bangladesh and the neighboring region as well
+marketing
+The Department of Marketing has started its Journey on May 28, 2007 with 50 students and 02 faculty members under the faculty of Business Studies. Presently, about 300 students are studying in the department in different batches and 11 faculty members are working. The Department offers a four-years BBA Program, one year MBA Program and two years MBA (Evening) Program
+finance
+The Department of Finance & Banking has started its Journey on 2013.  The Department of Finance & Banking at Comilla University is committed to provide the best quality education in the finance & Banking arena in global standard. Department of Finance & Banking helps students analyze financial markets related problems happening around the world in various different dimensions
+law
+law department is the nineteenth department of this university which started its journey from the academic year 2015-2016. The Department inducted its journey with only three teachers and fifty three students in that academic year. It offers LL
+chancellor
+Md. Abdul Hamid,Hon'ble President of the People's Republic of Bangladesh
+vice chancellor
+Professor Dr. A. F. M. Abdul Moyeen
+pro Vice chancellor
+Professor Dr. Mohammad Humayun Kabir
+proctor
+Kazi Omar Siddiqi
+Assistant Professor, Dept. of Management Studies, CoU
+facilities
+Central Library,Residence Hall,Transport,Medical Center,Sports and Culture,ICT Cell,Guest House,Cafeteria,Post Office,Bank,Mosque
+website
+cou.ac.bd
